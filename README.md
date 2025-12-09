@@ -33,5 +33,6 @@ Le programme implémente les commandes suivantes, lues via l'entrée standard (`
 ├── projetp.c                 # Le code source C complet de l'interpréteur.
 ├── README.md                 # Ce document.
 ├── in.txt                    # Fichier de commandes d'entrée (tests).
+├── inout.txt                 # Fichier de commandes d'entrée et de sortie (tests).
 
 ```
