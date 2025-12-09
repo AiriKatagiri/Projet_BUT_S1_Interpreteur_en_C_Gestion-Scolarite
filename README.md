@@ -36,3 +36,7 @@ Le programme implémente les commandes suivantes, lues via l'entrée standard (`
 ├── inout.txt                 # Fichier de commandes d'entrée et de sortie (tests).
 
 ```
+## Autrice
+Audrey
+
+Formation : BUT Informatique - Semestre 1
